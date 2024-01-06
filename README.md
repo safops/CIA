@@ -1,2 +1,2 @@
-# cia
-this repository holds information about the central intelligence agency, a us-based company based in langley, virginia. 
+# CIA
+This repository holds information about the Central Intelligence Agency in Langley, Virginia. 
